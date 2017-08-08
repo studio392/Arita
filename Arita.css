@@ -1,0 +1,39 @@
+/* 
+ * Arita Fonts
+ * https://github.com/studio392/Arita
+ *
+ * Created by AMORE PACIFIC. (http://www.apgroup.com)
+ */
+ 
+@font-face {
+ font-family: 'Arita';
+ font-weight: 200;
+ src: url(./arita-Light.eot);
+ src: url(./arita-Light.eot?#iefix) format('embedded-opentype'),
+      url(./arita-Light.woff) format('woff'),
+      url(./arita-Light.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Arita';
+ font-weight: 400;
+ src: url(./arita-Medium.eot);
+ src: url(./arita-Medium.eot?#iefix) format('embedded-opentype'),
+      url(./arita-Medium.woff) format('woff'),
+      url(./arita-Medium.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Arita';
+ font-weight: 700;
+ src: url(./arita-SemiBold.eot);
+ src: url(./arita-SemiBold.eot?#iefix) format('embedded-opentype'),
+      url(./arita-SemiBold.woff) format('woff'),
+      url(./arita-SemiBold.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Arita';
+ font-weight: 800;
+ src: url(./arita-Bold.eot);
+ src: url(./arita-Bold.eot?#iefix) format('embedded-opentype'),
+      url(./arita-Bold.woff) format('woff'),
+      url(./arita-Bold.ttf) format('truetype');
+}
