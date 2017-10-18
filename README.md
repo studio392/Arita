@@ -21,13 +21,13 @@ Created by AMORE PACIFIC. (http://www.apgroup.com)
 **html document header in link tag:**
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/Arita/dcda0603/Arita.css" />
+<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/Arita/master/Arita.css" />
 ```
 
 **stylesheet document in @import:**
 
 ```css
-@import url(https://cdn.rawgit.com/studio392/Arita/dcda0603/Arita.css);
+@import url(https://cdn.rawgit.com/studio392/Arita/master/Arita.css);
 ```
 
 **Adding to CSS:**
