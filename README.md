@@ -7,7 +7,7 @@ Created by AMORE PACIFIC. (http://www.apgroup.com)
 
 - Light (200)
 - Medium (400)
-- SemiBold (700)
+- SemiBold (600)
 - Bold (800)
 
 ## Format
